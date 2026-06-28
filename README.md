@@ -7,7 +7,7 @@ Each project builds on the previous one — from toolchain setup through
 encrypted communications, anomaly detection, and TinyML inference.
 
 ## About Me
-Master Degree in IoT Cybersecurity graduate (Erasmus Mundus CYBERUS) from Université Bretagne Sud and Université Libre de Bruxelles. CompTIA Security+ and CySA+ certified. Passionate about the intersection of embedded hardware, IoT security, and machine learning.
+IoT Cybersecurity Master graduate (Erasmus Mundus CYBERUS) from Université Bretagne Sud and Université Libre de Bruxelles. CompTIA Security+ and CySA+ certified. Passionate about the intersection of embedded hardware, IoT security, and machine learning.
 
 ## Portfolio Roadmap
 
